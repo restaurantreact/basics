@@ -6,6 +6,8 @@ import {View, Text, StyleSheet, Image} from 'react-native';
       <View>
         <Text >
            Hello world   
+           version --- 1
+           developer 1 branch
          </Text>  
         
       </View>
